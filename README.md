@@ -10,17 +10,36 @@ The global job market has seen significant fluctuations, with mass layoffs impac
 ## 🔍 Key Findings
 #### ✅ Layoff Trends Over Time:
 
-Major spikes in layoffs observed during economic downturns (e.g., pandemic years).
+Major spikes in layoffs observed during economic downturns (e.g., pandemic years 2022).
 #### ✅ Industries with the Highest Layoffs:
 
-Tech, Retail, and Finance sectors experienced the most significant workforce reductions.
-#### ✅ Company-Wise Analysis:
+Consumer, Retail, and Finance sectors experienced the most significant workforce reductions.
+#### ✅ Company-Wise Layoff Trends:
 
-Some of the biggest layoffs were from Fortune 500 companies and startups with high funding.
-#### ✅ Country-Wise Layoff Trends:
+Some of the biggest layoffs were from Fortune 500 companies and startups with high funding like Amazon, Google, Meta.
+Google during 2023 has the biggest contribution in layoffs.
+#### ✅ Stage Layoff Trends:
 
-The USA, India, and the UK reported the highest number of layoffs.
+The Post-IPO, Acquired, and C-Series Funding stage companies reported the highest number of layoffs.
 #### ✅ Funding vs. Layoffs:
 
 Some startups that raised billions in funding still conducted mass layoffs due to economic pressures.
+
+## 📂 Dataset Description
+The dataset contains transaction records of a retail store, including:
+
+
+  | ColumnName | Description |
+|:----------|:-----------:|
+| Company	     |  Name of the Company     | 
+| Location      |  Company Headquaters       | 
+| Industry	     |  Business Sector    | 
+| Total_laid_off    | Total No. Of Employees got laid off from company      | 
+| Percentage_laid_off	     |  Percentage of Employees got laid off from company    | 
+| Date      |  Day on laid off announced       | 
+| Stage	     |   Development Phase (Series-A,B ; Post-IPO;Pre_IPO    | 
+| Country     |  Nation where company founded       | 
+| Funds_raised_millions	     | Total amount of money raised by Investors    | 
+
+
 
