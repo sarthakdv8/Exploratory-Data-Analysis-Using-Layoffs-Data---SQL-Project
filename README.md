@@ -52,7 +52,9 @@ The dataset contains transaction records of a retail store, including:
 
 ## 🔗 Connect & Contribute
 📌 LinkedIn : www.linkedin.com/in/devsarthak24
+
 📌 Gmail : sarthakdv8@gmail.com
+
 Want to contribute? Feel free to fork the repository and explore new insights! 🚀
 
 
