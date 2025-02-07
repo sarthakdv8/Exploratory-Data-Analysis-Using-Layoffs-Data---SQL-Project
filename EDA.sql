@@ -1,5 +1,6 @@
 -- Data Exploratory Analysis
-
+-- The Important fields in this dataset is Total_laid_off and Percentage_laid_off
+-- We will be Exploring the data based on these two Analysis
 USE world_layoffs;
 
 SELECT * 
