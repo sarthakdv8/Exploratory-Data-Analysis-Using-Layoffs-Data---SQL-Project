@@ -50,7 +50,6 @@ The dataset contains transaction records of a retail store, including:
 
 📌 The project highlights the impact of economic downturns, funding challenges, and market shifts on employment.
 
-📌 Future work can integrate Machine Learning to predict future layoffs based on economic indicators.
 
 ## 🔗 Connect & Contribute
 📌 LinkedIn : www.linkedin.com/in/devsarthak24
