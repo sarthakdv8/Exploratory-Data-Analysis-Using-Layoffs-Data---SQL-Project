@@ -8,19 +8,19 @@ The global job market has seen significant fluctuations, with mass layoffs impac
 🔹 Scope: Identifying layoff patterns, trends, and economic impacts
 
 ## 🔍 Key Findings
-### ✅ Layoff Trends Over Time:
+#### ✅ Layoff Trends Over Time:
 
 Major spikes in layoffs observed during economic downturns (e.g., pandemic years).
-### ✅ Industries with the Highest Layoffs:
+#### ✅ Industries with the Highest Layoffs:
 
 Tech, Retail, and Finance sectors experienced the most significant workforce reductions.
-### ✅ Company-Wise Analysis:
+#### ✅ Company-Wise Analysis:
 
 Some of the biggest layoffs were from Fortune 500 companies and startups with high funding.
-### ✅ Country-Wise Layoff Trends:
+#### ✅ Country-Wise Layoff Trends:
 
 The USA, India, and the UK reported the highest number of layoffs.
-### ✅ Funding vs. Layoffs:
+#### ✅ Funding vs. Layoffs:
 
 Some startups that raised billions in funding still conducted mass layoffs due to economic pressures.
 
