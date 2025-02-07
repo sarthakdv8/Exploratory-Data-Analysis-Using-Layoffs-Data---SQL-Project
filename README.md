@@ -24,6 +24,7 @@ The Post-IPO, Acquired, and C-Series Funding stage companies reported the highes
 #### ✅ Funding vs. Layoffs:
 
 Some startups that raised billions in funding still conducted mass layoffs due to economic pressures.
+Some of the Comapnies are Google,Amazon
 
 ## 📂 Dataset Description
 The dataset contains transaction records of a retail store, including:
@@ -36,10 +37,23 @@ The dataset contains transaction records of a retail store, including:
 | Industry	     |  Business Sector    | 
 | Total_laid_off    | Total No. Of Employees got laid off from company      | 
 | Percentage_laid_off	     |  Percentage of Employees got laid off from company    | 
-| Date      |  Day on laid off announced       | 
+| Date      |   The Specific Day on laid off announced       | 
 | Stage	     |   Development Phase (Series-A,B ; Post-IPO;Pre_IPO    | 
 | Country     |  Nation where company founded       | 
 | Funds_raised_millions	     | Total amount of money raised by Investors    | 
+
+
+## 📌 Conclusion
+📌 This SQL-driven analysis provided valuable insights into layoff trends, helping us understand which industries, companies, and countries were most affected.
+
+📌 The project highlights the impact of economic downturns, funding challenges, and market shifts on employment.
+
+📌 Future work can integrate Machine Learning to predict future layoffs based on economic indicators.
+
+## 🔗 Connect & Contribute
+📌 LinkedIn : www.linkedin.com/in/devsarthak24
+📌 Gmail : sarthakdv8@gmail.com
+Want to contribute? Feel free to fork the repository and explore new insights! 🚀
 
 
 
